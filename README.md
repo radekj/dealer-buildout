@@ -1,1 +1,4 @@
-Use Python 3.3
+Installation
+============
+
+Use Python >= 3.3
