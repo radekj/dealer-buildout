@@ -5,3 +5,4 @@ parts
 src
 .installed.cfg
 .mr.developer.cfg
+local.cfg
